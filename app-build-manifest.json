@@ -1,0 +1,45 @@
+{
+  "pages": {
+    "/hometb/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/hometb/page.css",
+      "static/chunks/app/hometb/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/aboutustb/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/aboutustb/page.css",
+      "static/chunks/app/aboutustb/page.js"
+    ],
+    "/servics/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/servics/page.css",
+      "static/chunks/app/servics/page.js"
+    ],
+    "/servics/nested/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/servics/nested/page.css",
+      "static/chunks/app/servics/nested/page.js"
+    ],
+    "/contactustb/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/contactustb/page.css",
+      "static/chunks/app/contactustb/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
+    ]
+  }
+}
